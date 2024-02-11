@@ -1,3 +1,8 @@
 create git repo:
 remote:
 1.github e repo create.
+
+local:
+1. computer e folder create
+2. files & folders create
+3. git init
